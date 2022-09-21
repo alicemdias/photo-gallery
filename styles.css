@@ -95,7 +95,7 @@ img:hover{
     animation: appear 2s .9s backwards;
 }
 .column:nth-child(2) a:nth-child(1){
-    animation: appear 2s .1s backwards;
+    animation: appear 2s .9s backwards;
 }
 .column:nth-child(2) a:nth-child(2){
     animation: appear 2s .2s backwards;
@@ -110,7 +110,7 @@ img:hover{
     animation: appear 2s .4s backwards;
 }
 .column:nth-child(3) a:nth-child(1){
-    animation: appear 2s .1s backwards;
+    animation: appear 2s .6s backwards;
 }
 .column:nth-child(3) a:nth-child(2){
     animation: appear 2s .2s backwards;
